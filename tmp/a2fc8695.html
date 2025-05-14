@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPLOADERV2 BY YUDZXML</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>UPLOAD TO CDN</h1>
+      <p>Upload file Anda dan dapatkan URL untuk berbagi!</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="upload-section">
+      <div class="container">
+        <form id="uploadForm">
+          <label for="fileInput">Pilih file untuk diupload:</label>
+          <input type="file" id="fileInput" name="file" required />
+          <button type="submit" class="btn" id="uploadBtn">Upload</button>
+        </form>
+
+        <!-- Loading spinner -->
+        <div id="loading" class="loading">
+          <div class="spinner"></div> 
+        </div>
+
+        <!-- Result Box -->
+        <div id="result" class="result-box" style="display:none;">
+          <h3>Hasil Upload:</h3>
+          <p><strong>URL:</strong></p>
+          <div id="fileUrl"></div>
+          <button id="copyBtn" class="btn">Salin URL</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Yudzxml Made With ♥️</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
