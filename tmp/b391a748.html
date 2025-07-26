@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <title>RESELLER PANEL BY YUDZXML</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P0DGX524F"></script>
+  <style>
+body {
+  background: #0a0a0f;
+  color: #d6f6ff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 24px 16px;
+  margin: 0;
+  min-height: 100vh;
+}
+* { box-sizing: border-box; }h1 { text-align: center; font-size: 2.4rem; color: #00ccff; text-shadow: 0 0 14px #00ccffaa; margin-bottom: 32px; font-weight: 700; }
+
+h3 { color: #00ccff; border-bottom: 2px solid #00ccff55; padding-bottom: 8px; margin-top: 28px; margin-bottom: 20px; font-weight: 600; letter-spacing: 0.04em; font-size: 1.2rem; }
+
+/* ===== Inputs & Selects ===== */ 
+input, select { width: 100%; max-width: 320px; padding: 12px 16px; margin: 10px 0 20px; border-radius: 10px; border: none; background: #111827; color: #d6f6ff; font-size: 1rem; box-shadow: inset 0 0 8px #00ccff44; transition: box-shadow 0.25s ease, outline-color 0.25s ease; outline-offset: 2px; outline-color: transparent; } input:focus, select:focus { outline-color: #00ccffcc; box-shadow: inset 0 0 10px #00ccffbb; }
+
+/* ===== Buttons ===== */
+button { cursor: pointer; user-select: none; } .primary-btn { width: 100%; max-width: 320px; padding: 12px 0; margin-top: 12px; font-size: 1.1rem; font-weight: 700; color: #000; background: #00ccff; border: none; border-radius: 10px; box-shadow: 0 0 16px #00ccffcc; transition: background 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease; text-align: center; } .primary-btn:hover:not(:disabled) { background: #009fcc; box-shadow: 0 0 24px #00e0ff; transform: translateY(-2px); } .primary-btn:active:not(:disabled) { transform: translateY(0); box-shadow: 0 0 16px #00ccffcc; } .primary-btn:disabled { background: #444; color: #999; cursor: not-allowed; box-shadow: none; }
+
+  .account-actions {
+      display: none;               /* initial hidden */
+      flex-direction: column;
+      gap: 12px;
+      max-width: 320px;
+      margin: 0 auto 20px;
+      width: 100%;
+    }
+    
+/* ===== Copy Buttons ===== */ 
+.copy-btn { background: none; border: none; cursor: pointer; font-size: 0.9rem; color: #00ccff; padding: 8px 14px; border-radius: 10px; transition: background-color 0.2s ease; } .copy-btn:hover { text-decoration: underline; background-color: #003f55; }
+
+.toggle-pass-btn { background: none; border: none; cursor: pointer; color: #00ffe5; margin-left: 5px; }
+
+/* ===== Boxes ===== */ 
+#loginBox, #mainBox { max-width: 340px; margin: 0 auto 28px; padding: 16px; background: rgba(255,255,255,0.02); border-radius: 14px; box-shadow: 0 0 12px #00ccff33; }
+
+/* ===== Panels ===== */ 
+#panels { margin-top: 24px; max-width: 780px; margin-left: auto; margin-right: auto; display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+
+.panel-box { background: rgba(0,0,25,0.65); border: 1.6px solid #00ccff66; border-radius: 16px; padding: 18px 20px; width: 280px; box-shadow: 0 0 16px #00ccff99; backdrop-filter: blur(10px); transition: transform 0.25s ease, box-shadow 0.25s ease; display: flex; flex-direction: column; justify-content: space-between; } .panel-box:hover { transform: scale(1.04); box-shadow: 0 0 26px #00e0ffee; }
+
+.panel-info { margin-bottom: 10px; font-size: 0.95rem; line-height: 1.4; word-break: break-word; display: flex; align-items: center; justify-content: space-between; } .panel-info b { display: inline-block; width: 100px; color: #00ccff; font-weight: 700; }
+
+.panel-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.panel-actions button {
+  min-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* ===== Tombol Delete ===== */ 
+.panel-actions .delete-btn { width: 100%; padding: 8px 14px; font-size: 0.9rem; border-radius: 10px; background: #ff3366; color: white; box-shadow: 0 0 12px #ff3366cc; border: none; font-weight: 600; transition: background 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease; } .panel-actions .delete-btn:hover { background: #cc204f; box-shadow: 0 0 20px #ff5577ff; transform: translateY(-2px); } .panel-actions .delete-btn:active { transform: translateY(0); box-shadow: 0 0 12px #ff3366cc; }
+
+/* ===== Tombol Copy ===== */ 
+.panel-actions .copy-btn,
+.panel-actions .delete-btn {
+  width: 100%;
+  padding: 8px 14px;
+  font-size: 0.9rem;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+  border: none;
+  transition: background 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 0 12px currentColor;
+}
+
+.panel-actions .copy-btn {
+  background: #0077cc;
+  box-shadow: 0 0 12px #0077cccc;
+}
+
+.panel-actions .copy-btn:hover {
+  background: #005fa3;
+  box-shadow: 0 0 20px #3399ffcc;
+  transform: translateY(-2px);
+}
+
+.panel-actions .copy-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 0 12px #0077cccc;
+}
+
+.panel-actions .delete-btn {
+  background: #ff3366;
+  box-shadow: 0 0 12px #ff3366cc;
+}
+
+.panel-actions .delete-btn:hover {
+  background: #cc204f;
+  box-shadow: 0 0 20px #ff5577ff;
+  transform: translateY(-2px);
+}
+
+.panel-actions .delete-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 0 12px #ff3366cc;
+}
+
+#logoutBtn {
+  display: none;
+  padding: 6px 12px;
+  font-size: 14px;
+  border-radius: 8px;
+  background-color: #ff3c3c;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 0 10px #ff3c3c;
+}
+
+#logoutBtn:hover {
+  background-color: #e62e2e;
+  box-shadow: 0 0 12px #ff5c5c;
+}
+
+#customAlert {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.95);
+  min-width: 280px;
+  max-width: 90vw;
+  background-color: #00cc66; /* default: success */
+  padding: 20px 24px;
+  border-radius: 12px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9999;
+  text-align: center;
+  transition:
+    opacity 0.4s ease,
+    transform 0.4s ease;
+}
+
+#customAlert.show {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+/* Warna berdasarkan tipe alert */
+#customAlert.success {
+  background-color: #00cc66;
+}
+#customAlert.error {
+  background-color: #ff3366;
+}
+#customAlert.info {
+  background-color: #0077cc;
+}
+#customAlert button {
+  margin-top: 14px;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+#customAlert button:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+@media (max-width: 768px) { .panel-box { width: 90vw; padding: 22px 26px; } } 
+</style>
+</head>
+<body>
+  <div id="customAlert">
+    <div id="customAlertText">Pesan alert muncul di sini</div>
+    <button onclick="hideAlert()">OK</button>
+  </div>
+
+  <h1>RESELLER PANEL</h1>
+
+  <div id="loginBox">
+    <h3>LOGIN ACCOUNT</h3>
+    <input type="text" id="username" placeholder="Your email (e.g. yudzxml@gmail.com)" autocomplete="username" />
+    <input type="password" id="password" placeholder="Your password" autocomplete="current-password" />
+    <button id="loginBtn" class="primary-btn" onclick="login()">LOGIN</button>
+  </div>
+
+  <div id="mainBox" style="display:none">
+    <h3>INFO AKUN</h3>
+    <div id="accountInfo" style="margin-bottom:20px; font-size:0.95rem; color:#00ccff;"></div>
+
+    <!-- wrapper kedua tombol -->
+    <div class="account-actions" id="accountActions">
+      <a href="perpanjangan.html" id="perpanjangBtn" class="primary-btn">PERPANJANG AKUN</a>
+      <button id="logoutBtn" onclick="logout()" class="primary-btn">LOGOUT</button>
+    </div>
+
+    <h3>CREATE PANEL</h3>
+    <input type="text" id="cuser" placeholder="Panel Username" />
+    <input type="password" id="cpass" placeholder="Panel Password" />
+    <select id="ram" aria-label="Select RAM size">
+      <option value="1gb">RAM 1 GB ( BY YUDZXML )</option>
+      <option value="2gb">RAM 2 GB ( BY YUDZXML )</option>
+      <option value="3gb">RAM 3 GB ( BY YUDZXML )</option>
+      <option value="4gb">RAM 4 GB ( BY YUDZXML )</option>
+      <option value="5gb">RAM 5 GB ( BY YUDZXML )</option>
+      <option value="6gb">RAM 6 GB ( BY YUDZXML )</option>
+      <option value="7gb">RAM 7 GB ( BY YUDZXML )</option>
+      <option value="8gb">RAM 8 GB ( BY YUDZXML )</option>
+      <option value="9gb">RAM 9 GB ( BY YUDZXML )</option>
+      <option value="10gb">RAM 10 GB ( BY YUDZXML )</option>
+      <option value="unli">RAM UNLIMITED ( BY YUDZXML )</option>
+    </select>
+    <button id="createBtn" class="primary-btn" onclick="createPanel()">CREATE PANEL</button>
+
+    <h3>PANEL DETAIL</h3>
+    <div id="panels"><i>Memuat Panels...</i></div>
+  </div>
+
+  <script>
+    const API_URL = '/api';
+
+    function setCookie(name, value, days) {
+      const expires = new Date(Date.now() + days * 864e5).toUTCString();
+      document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/; SameSite=Lax`;
+    }
+
+    function getCookie(name) {
+      const cookies = document.cookie ? document.cookie.split('; ') : [];
+      for (const c of cookies) {
+        const [key, ...v] = c.split('=');
+        if (key === name) return decodeURIComponent(v.join('='));
+      }
+      return '';
+    }
+
+    function getUserFromCookie() {
+      try {
+        const str = getCookie('user');
+        if (!str) return null;
+        const u = JSON.parse(str);
+        if (u.username && u.password) return u;
+      } catch (e) {}
+      return null;
+    }
+
+    async function login() {
+      const btn = document.getElementById('loginBtn');
+      btn.disabled = true;
+
+      const u = document.getElementById('username').value.trim();
+      const p = document.getElementById('password').value.trim();
+
+      if (!u || !p) {
+        showAlert('Harap Isi Username Dan Password', 'info');
+        btn.disabled = false;
+        return;
+      }
+
+      try {
+        const res = await fetch(API_URL + '/list-users');
+        const data = await res.json();
+        const foundUser = data.users.find(user => user.username === u && user.password === p);
+
+        if (!foundUser) throw new Error('Username or password incorrect');
+        setCookie('user', JSON.stringify({ username: u, password: p }), 7);
+
+        document.getElementById('loginBox').style.display = 'none';
+        document.getElementById('mainBox').style.display = 'block';
+        document.getElementById('accountActions').style.display = 'flex';
+        document.getElementById('logoutBtn').style.display = 'block';
+        showAccountInfo(foundUser.expiredAt);
+        loadPanels();
+      } catch (e) {
+        showAlert(e.message, 'error');
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    function showAccountInfo(expiredAt) {
+      const info = document.getElementById('accountInfo');
+      info.innerHTML = '';
+      if (!expiredAt) {
+        const p = document.createElement('p');
+        p.innerHTML = 'Masa aktif akun: <b>∞</b>';
+        info.appendChild(p);
+        return;
+      }
+      const expDate = new Date(expiredAt);
+      const now = new Date();
+      const diffDays = Math.ceil((expDate - now) / 864e5);
+      const statusText = diffDays > 0 ? `${diffDays} hari tersisa` : 'Kadaluarsa';
+
+      const expiredEl = document.createElement('p');
+      expiredEl.innerHTML = `Tanggal Expired: <b>${expDate.toLocaleDateString()}</b>`;
+      info.appendChild(expiredEl);
+
+      const remainingEl = document.createElement('p');
+      remainingEl.innerHTML = `Sisa Hari: <b>${statusText}</b>`;
+      info.appendChild(remainingEl);
+    }
+
+    function logout() {
+      document.cookie = "user=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+      document.getElementById('loginBox').style.display = 'block';
+      document.getElementById('mainBox').style.display = 'none';
+      document.getElementById('accountActions').style.display = 'none';
+      showAlert('Berhasil Logout', 'success');
+    }
+
+    async function loadPanels() {
+      const user = getUserFromCookie();
+      if (!user) return showAlert('Please login', 'info');
+
+      const container = document.getElementById('panels');
+      container.innerHTML = '<i>Reseller By Yudzxml</i>';
+
+      try {
+        const res = await fetch(API_URL + '/panels', { credentials: 'include' });
+        if (!res.ok) throw new Error('Failed to load panels');
+        const panels = await res.json();
+        renderPanels(panels);
+      } catch (e) {
+        container.innerHTML = `<i style="color:#ff6666;">${e.message}</i>`;
+      }
+    }
+
+    function renderPanels(panels) {
+      const container = document.getElementById('panels');
+      container.innerHTML = '';
+      if (!Array.isArray(panels) || panels.length === 0) {
+        container.innerHTML = '<i style="color:#888">Create Panel Terlebih Dahulu</i>';
+        return;
+      }
+      panels.forEach(panel => {
+        const loginUrl = panel.loginUrl || 'https://private-server.yudzxsnayders.x-vvip.cloud/';
+        const encoded  = encodeURIComponent(JSON.stringify(panel));
+        const div = document.createElement('div');
+        div.className = 'panel-box';
+        div.innerHTML = `
+          ${renderInfo("ID SERVER", panel.serverId)}
+          ${renderInfo("ID USER", panel.userId)}
+          ${renderInfo("URL LOGIN", loginUrl)}
+          ${renderInfo("USERNAME", panel.username)}
+          ${renderInfo("PASSWORD", panel.password)}
+          ${renderInfo("RAM", panel.ram)}
+          ${renderInfo("TANGGAL", panel.createdAt || 'N/A')}
+          <div class="panel-actions">
+            <button class="copy-btn"  onclick="copyToClipboard('${loginUrl}')">Copy URL</button>
+            <button class="copy-btn"  onclick="copyToClipboard('${panel.username}')">Copy Username</button>
+            <button class="copy-btn"  onclick="copyToClipboard('${panel.password}')">Copy Password</button>
+            <button class="delete-btn" onclick="deletePanel(decodeURIComponent('${encoded}'))">Delete</button>
+          </div>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function renderInfo(label, value) {
+      return `
+        <div class="panel-info">
+          <b>${label}:</b>
+          <span class="password-hidden" data-password="${value || 'N/A'}">****</span>
+          <button class="toggle-pass-btn" onclick="togglePasswordVisibility(this)">
+            <i class="fas fa-eye"></i>
+          </button>
+        </div>
+      `;
+    }
+
+    function copyToClipboard(text) {
+      navigator.clipboard.writeText(text)
+        .then(() => showAlert(`Copied: ${text}`, 'success'))
+        .catch(() => showAlert('Failed to copy text.', 'error'));
+    }
+
+    function togglePasswordVisibility(button) {
+      const span = button.previousElementSibling;
+      const realValue = span.getAttribute('data-password');
+      const icon = button.querySelector('i');
+      if (span.textContent === '****') {
+        span.textContent = realValue;
+        icon.classList.replace('fa-eye', 'fa-eye-slash');
+      } else {
+        span.textContent = '****';
+        icon.classList.replace('fa-eye-slash', 'fa-eye');
+      }
+    }
+
+    async function createPanel() {
+      const btn = document.getElementById('createBtn');
+      btn.disabled = true;
+      const user = getUserFromCookie();
+      if (!user) {
+        showAlert('Please login', 'info');
+        btn.disabled = false;
+        return;
+      }
+      const cu = document.getElementById('cuser').value.trim();
+      const cp = document.getElementById('cpass').value.trim();
+      const ram = document.getElementById('ram').value;
+      if (!cu || !cp) {
+        showAlert('Fill panel credentials', 'info');
+        btn.disabled = false;
+        return;
+      }
+      try {
+        // cek expired
+        const resU = await fetch(API_URL + '/list-users');
+        const usrs = await resU.json();
+        const cur  = usrs.users.find(u => u.username === user.username);
+        if (cur?.expiredAt && cur.expiredAt < Date.now()) {
+          showAlert('Masa aktif akun anda telah habis, silahkan minta owner untuk perpanjangan','info');
+          btn.disabled = false;
+          return;
+        }
+        const panelRes = await fetch(API_URL + '/create-panel', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          credentials: 'include',
+          body: JSON.stringify({
+            github: { username: user.username, password: user.password },
+            panelData: { username: cu, password: cp, ram }
+          })
+        });
+        const data = await panelRes.json();
+        if (!panelRes.ok) throw new Error(data.message || 'Create failed');
+        showAlert('Berhasil Membuat Panel!','success');
+        document.getElementById('cuser').value = '';
+        document.getElementById('cpass').value = '';
+        loadPanels();
+      } catch (e) {
+        showAlert(e.message,'error');
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    async function deletePanel(enc) {
+      if (!confirm('Are you sure?')) return;
+      const user = getUserFromCookie();
+      if (!user) return showAlert('Please login','info');
+      try {
+        const p   = JSON.parse(enc);
+        const res = await fetch(API_URL + '/delete-panel', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          credentials: 'include',
+          body: JSON.stringify({
+            username: user.username,
+            password: user.password,
+            serverId: p.serverId,
+            userId: p.userId
+          })
+        });
+        const d = await res.json();
+        if (!res.ok) throw new Error(d.message || 'Delete failed');
+        showAlert('Berhasil Hapus Panel!','success');
+        loadPanels();
+      } catch (e) {
+        showAlert(e.message,'error');
+      }
+    }
+
+    function showAlert(message, type = 'success') {
+      const alertBox = document.getElementById('customAlert');
+      const alertText = document.getElementById('customAlertText');
+      alertBox.className = ''; 
+      alertBox.classList.add('show', type);
+      alertText.innerText = message;
+      clearTimeout(alertBox.timer);
+      alertBox.timer = setTimeout(hideAlert, 5000);
+    }
+
+    function hideAlert() {
+      const alertBox = document.getElementById('customAlert');
+      alertBox.classList.remove('show', 'success', 'error', 'info');
+    }
+
+    window.onload = () => {
+      const user = getUserFromCookie();
+      if (user) {
+        document.getElementById('loginBox').style.display = 'none';
+        document.getElementById('mainBox').style.display = 'block';
+        document.getElementById('accountActions').style.display = 'flex';
+        document.getElementById('logoutBtn').style.display = 'block';
+        fetch(API_URL + '/list-users')
+          .then(res => res.json())
+          .then(data => {
+            const cur = data.users.find(u => u.username === user.username);
+            showAccountInfo(cur?.expiredAt);
+          });
+        loadPanels();
+      }
+    };
+  </script>
+</body>
+</html>
