@@ -1,0 +1,3962 @@
+[
+  {
+    "name": "Moldova",
+    "population": 2617820,
+    "flag": "https://flagcdn.com/md.svg",
+    "official_language": [
+      "Romanian"
+    ],
+    "currency": [
+      "MDL"
+    ],
+    "phone_code": "+373",
+    "domain": [
+      ".md"
+    ]
+  },
+  {
+    "name": "Comoros",
+    "population": 869595,
+    "flag": "https://flagcdn.com/km.svg",
+    "official_language": [
+      "Arabic",
+      "French",
+      "Comorian"
+    ],
+    "currency": [
+      "KMF"
+    ],
+    "phone_code": "+269",
+    "domain": [
+      ".km"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "population": 32365998,
+    "flag": "https://flagcdn.com/my.svg",
+    "official_language": [
+      "English",
+      "Malay"
+    ],
+    "currency": [
+      "MYR"
+    ],
+    "phone_code": "+60",
+    "domain": [
+      ".my"
+    ]
+  },
+  {
+    "name": "Algeria",
+    "population": 44700000,
+    "flag": "https://flagcdn.com/dz.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "DZD"
+    ],
+    "phone_code": "+213",
+    "domain": [
+      ".dz",
+      "الجزائر."
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "population": 2302,
+    "flag": "https://flagcdn.com/nf.svg",
+    "official_language": [
+      "English",
+      "Norfuk"
+    ],
+    "currency": [
+      "AUD"
+    ],
+    "phone_code": "+672",
+    "domain": [
+      ".nf"
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "population": 2100126,
+    "flag": "https://flagcdn.com/si.svg",
+    "official_language": [
+      "Slovene"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+386",
+    "domain": [
+      ".si"
+    ]
+  },
+  {
+    "name": "Guyana",
+    "population": 786559,
+    "flag": "https://flagcdn.com/gy.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GYD"
+    ],
+    "phone_code": "+592",
+    "domain": [
+      ".gy"
+    ]
+  },
+  {
+    "name": "South Georgia",
+    "population": 30,
+    "flag": "https://flagcdn.com/gs.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GBP"
+    ],
+    "phone_code": "+500",
+    "domain": [
+      ".gs"
+    ]
+  },
+  {
+    "name": "Christmas Island",
+    "population": 2072,
+    "flag": "https://flagcdn.com/cx.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "AUD"
+    ],
+    "phone_code": "+61",
+    "domain": [
+      ".cx"
+    ]
+  },
+  {
+    "name": "France",
+    "population": 67391582,
+    "flag": "https://flagcdn.com/fr.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+33",
+    "domain": [
+      ".fr"
+    ]
+  },
+  {
+    "name": "Denmark",
+    "population": 5831404,
+    "flag": "https://flagcdn.com/dk.svg",
+    "official_language": [
+      "Danish"
+    ],
+    "currency": [
+      "DKK"
+    ],
+    "phone_code": "+45",
+    "domain": [
+      ".dk"
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "population": 18754440,
+    "flag": "https://flagcdn.com/kz.svg",
+    "official_language": [
+      "Kazakh",
+      "Russian"
+    ],
+    "currency": [
+      "KZT"
+    ],
+    "phone_code": "+76",
+    "domain": [
+      ".kz",
+      ".қаз"
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "population": 307150,
+    "flag": "https://flagcdn.com/vu.svg",
+    "official_language": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "currency": [
+      "VUV"
+    ],
+    "phone_code": "+678",
+    "domain": [
+      ".vu"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "population": 44134693,
+    "flag": "https://flagcdn.com/ua.svg",
+    "official_language": [
+      "Ukrainian"
+    ],
+    "currency": [
+      "UAH"
+    ],
+    "phone_code": "+380",
+    "domain": [
+      ".ua",
+      ".укр"
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "population": 38137,
+    "flag": "https://flagcdn.com/li.svg",
+    "official_language": [
+      "German"
+    ],
+    "currency": [
+      "CHF"
+    ],
+    "phone_code": "+423",
+    "domain": [
+      ".li"
+    ]
+  },
+  {
+    "name": "Austria",
+    "population": 8917205,
+    "flag": "https://flagcdn.com/at.svg",
+    "official_language": [
+      "German"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+43",
+    "domain": [
+      ".at"
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "population": 4270563,
+    "flag": "https://flagcdn.com/kw.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "KWD"
+    ],
+    "phone_code": "+965",
+    "domain": [
+      ".kw"
+    ]
+  },
+  {
+    "name": "Andorra",
+    "population": 77265,
+    "flag": "https://flagcdn.com/ad.svg",
+    "official_language": [
+      "Catalan"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+376",
+    "domain": [
+      ".ad"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "population": 2351625,
+    "flag": "https://flagcdn.com/bw.svg",
+    "official_language": [
+      "English",
+      "Tswana"
+    ],
+    "currency": [
+      "BWP"
+    ],
+    "phone_code": "+267",
+    "domain": [
+      ".bw"
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "population": 48865,
+    "flag": "https://flagcdn.com/fo.svg",
+    "official_language": [
+      "Danish",
+      "Faroese"
+    ],
+    "currency": [
+      "DKK",
+      "FOK"
+    ],
+    "phone_code": "+298",
+    "domain": [
+      ".fo"
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "population": 9890400,
+    "flag": "https://flagcdn.com/ae.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "AED"
+    ],
+    "phone_code": "+971",
+    "domain": [
+      ".ae",
+      "امارات."
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "population": 26545864,
+    "flag": "https://flagcdn.com/cm.svg",
+    "official_language": [
+      "English",
+      "French"
+    ],
+    "currency": [
+      "XAF"
+    ],
+    "phone_code": "+237",
+    "domain": [
+      ".cm"
+    ]
+  },
+  {
+    "name": "Russia",
+    "population": 144104080,
+    "flag": "https://flagcdn.com/ru.svg",
+    "official_language": [
+      "Russian"
+    ],
+    "currency": [
+      "RUB"
+    ],
+    "phone_code": "+73",
+    "domain": [
+      ".ru",
+      ".su",
+      ".рф"
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "population": 2961161,
+    "flag": "https://flagcdn.com/jm.svg",
+    "official_language": [
+      "English",
+      "Jamaican Patois"
+    ],
+    "currency": [
+      "JMD"
+    ],
+    "phone_code": "+1876",
+    "domain": [
+      ".jm"
+    ]
+  },
+  {
+    "name": "Palestine",
+    "population": 4803269,
+    "flag": "https://flagcdn.com/ps.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "EGP",
+      "ILS",
+      "JOD"
+    ],
+    "phone_code": "+970",
+    "domain": [
+      ".ps",
+      "فلسطين."
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "population": 988002,
+    "flag": "https://flagcdn.com/dj.svg",
+    "official_language": [
+      "Arabic",
+      "French"
+    ],
+    "currency": [
+      "DJF"
+    ],
+    "phone_code": "+253",
+    "domain": [
+      ".dj"
+    ]
+  },
+  {
+    "name": "Kenya",
+    "population": 53771300,
+    "flag": "https://flagcdn.com/ke.svg",
+    "official_language": [
+      "English",
+      "Swahili"
+    ],
+    "currency": [
+      "KES"
+    ],
+    "phone_code": "+254",
+    "domain": [
+      ".ke"
+    ]
+  },
+  {
+    "name": "Belize",
+    "population": 397621,
+    "flag": "https://flagcdn.com/bz.svg",
+    "official_language": [
+      "Belizean Creole",
+      "English",
+      "Spanish"
+    ],
+    "currency": [
+      "BZD"
+    ],
+    "phone_code": "+501",
+    "domain": [
+      ".bz"
+    ]
+  },
+  {
+    "name": "French Polynesia",
+    "population": 280904,
+    "flag": "https://flagcdn.com/pf.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XPF"
+    ],
+    "phone_code": "+689",
+    "domain": [
+      ".pf"
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "population": 54409794,
+    "flag": "https://flagcdn.com/mm.svg",
+    "official_language": [
+      "Burmese"
+    ],
+    "currency": [
+      "MMK"
+    ],
+    "phone_code": "+95",
+    "domain": [
+      ".mm"
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "population": 33691,
+    "flag": "https://flagcdn.com/gi.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GIP"
+    ],
+    "phone_code": "+350",
+    "domain": [
+      ".gi"
+    ]
+  },
+  {
+    "name": "Singapore",
+    "population": 5685807,
+    "flag": "https://flagcdn.com/sg.svg",
+    "official_language": [
+      "English",
+      "Chinese",
+      "Malay",
+      "Tamil"
+    ],
+    "currency": [
+      "SGD"
+    ],
+    "phone_code": "+65",
+    "domain": [
+      ".sg",
+      ".新加坡",
+      ".சிங்கப்பூர்"
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "population": 5458827,
+    "flag": "https://flagcdn.com/sk.svg",
+    "official_language": [
+      "Slovak"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+421",
+    "domain": [
+      ".sk"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "population": 366425,
+    "flag": "https://flagcdn.com/is.svg",
+    "official_language": [
+      "Icelandic"
+    ],
+    "currency": [
+      "ISK"
+    ],
+    "phone_code": "+354",
+    "domain": [
+      ".is"
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "population": 771612,
+    "flag": "https://flagcdn.com/bt.svg",
+    "official_language": [
+      "Dzongkha"
+    ],
+    "currency": [
+      "BTN",
+      "INR"
+    ],
+    "phone_code": "+975",
+    "domain": [
+      ".bt"
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "population": 2077132,
+    "flag": "https://flagcdn.com/mk.svg",
+    "official_language": [
+      "Macedonian"
+    ],
+    "currency": [
+      "MKD"
+    ],
+    "phone_code": "+389",
+    "domain": [
+      ".mk"
+    ]
+  },
+  {
+    "name": "United States Virgin Islands",
+    "population": 106290,
+    "flag": "https://flagcdn.com/vi.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1340",
+    "domain": [
+      ".vi"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "population": 13132792,
+    "flag": "https://flagcdn.com/gn.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "GNF"
+    ],
+    "phone_code": "+224",
+    "domain": [
+      ".gn"
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "population": 7500700,
+    "flag": "https://flagcdn.com/hk.svg",
+    "official_language": [
+      "English",
+      "Chinese"
+    ],
+    "currency": [
+      "HKD"
+    ],
+    "phone_code": "+852",
+    "domain": [
+      ".hk",
+      ".香港"
+    ]
+  },
+  {
+    "name": "Malta",
+    "population": 525285,
+    "flag": "https://flagcdn.com/mt.svg",
+    "official_language": [
+      "English",
+      "Maltese"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+356",
+    "domain": [
+      ".mt"
+    ]
+  },
+  {
+    "name": "Afghanistan",
+    "population": 40218234,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "official_language": [
+      "Dari",
+      "Pashto",
+      "Turkmen"
+    ],
+    "currency": [
+      "AFN"
+    ],
+    "phone_code": "+93",
+    "domain": [
+      ".af"
+    ]
+  },
+  {
+    "name": "United States",
+    "population": 329484123,
+    "flag": "https://flagcdn.com/us.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1201",
+    "domain": [
+      ".us"
+    ]
+  },
+  {
+    "name": "Suriname",
+    "population": 586634,
+    "flag": "https://flagcdn.com/sr.svg",
+    "official_language": [
+      "Dutch"
+    ],
+    "currency": [
+      "SRD"
+    ],
+    "phone_code": "+597",
+    "domain": [
+      ".sr"
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "population": 62999,
+    "flag": "https://flagcdn.com/gg.svg",
+    "official_language": [
+      "English",
+      "French",
+      "Guernésiais"
+    ],
+    "currency": [
+      "GBP",
+      "GGP"
+    ],
+    "phone_code": "+44",
+    "domain": [
+      ".gg"
+    ]
+  },
+  {
+    "name": "Curaçao",
+    "population": 155014,
+    "flag": "https://flagcdn.com/cw.svg",
+    "official_language": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "currency": [
+      "ANG"
+    ],
+    "phone_code": "+599",
+    "domain": [
+      ".cw"
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "population": 451,
+    "flag": "https://flagcdn.com/va.svg",
+    "official_language": [
+      "Italian",
+      "Latin"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+3906698",
+    "domain": [
+      ".va"
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "population": 8947027,
+    "flag": "https://flagcdn.com/pg.svg",
+    "official_language": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "currency": [
+      "PGK"
+    ],
+    "phone_code": "+675",
+    "domain": [
+      ".pg"
+    ]
+  },
+  {
+    "name": "Malawi",
+    "population": 19129955,
+    "flag": "https://flagcdn.com/mw.svg",
+    "official_language": [
+      "English",
+      "Chewa"
+    ],
+    "currency": [
+      "MWK"
+    ],
+    "phone_code": "+265",
+    "domain": [
+      ".mw"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "population": 9749763,
+    "flag": "https://flagcdn.com/hu.svg",
+    "official_language": [
+      "Hungarian"
+    ],
+    "currency": [
+      "HUF"
+    ],
+    "phone_code": "+36",
+    "domain": [
+      ".hu"
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "population": 16718971,
+    "flag": "https://flagcdn.com/kh.svg",
+    "official_language": [
+      "Khmer"
+    ],
+    "currency": [
+      "KHR",
+      "USD"
+    ],
+    "phone_code": "+855",
+    "domain": [
+      ".kh"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "population": 17643060,
+    "flag": "https://flagcdn.com/ec.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+593",
+    "domain": [
+      ".ec"
+    ]
+  },
+  {
+    "name": "Canada",
+    "population": 38005238,
+    "flag": "https://flagcdn.com/ca.svg",
+    "official_language": [
+      "English",
+      "French"
+    ],
+    "currency": [
+      "CAD"
+    ],
+    "phone_code": "+1",
+    "domain": [
+      ".ca"
+    ]
+  },
+  {
+    "name": "Norway",
+    "population": 5379475,
+    "flag": "https://flagcdn.com/no.svg",
+    "official_language": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokmål",
+      "Sami"
+    ],
+    "currency": [
+      "NOK"
+    ],
+    "phone_code": "+47",
+    "domain": [
+      ".no"
+    ]
+  },
+  {
+    "name": "Cayman Islands",
+    "population": 65720,
+    "flag": "https://flagcdn.com/ky.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "KYD"
+    ],
+    "phone_code": "+1345",
+    "domain": [
+      ".ky"
+    ]
+  },
+  {
+    "name": "Martinique",
+    "population": 378243,
+    "flag": "https://flagcdn.com/mq.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+596",
+    "domain": [
+      ".mq"
+    ]
+  },
+  {
+    "name": "Sint Maarten",
+    "population": 40812,
+    "flag": "https://flagcdn.com/sx.svg",
+    "official_language": [
+      "English",
+      "French",
+      "Dutch"
+    ],
+    "currency": [
+      "ANG"
+    ],
+    "phone_code": "+1721",
+    "domain": [
+      ".sx"
+    ]
+  },
+  {
+    "name": "Mali",
+    "population": 20250834,
+    "flag": "https://flagcdn.com/ml.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+223",
+    "domain": [
+      ".ml"
+    ]
+  },
+  {
+    "name": "Samoa",
+    "population": 198410,
+    "flag": "https://flagcdn.com/ws.svg",
+    "official_language": [
+      "English",
+      "Samoan"
+    ],
+    "currency": [
+      "WST"
+    ],
+    "phone_code": "+685",
+    "domain": [
+      ".ws"
+    ]
+  },
+  {
+    "name": "Fiji",
+    "population": 896444,
+    "flag": "https://flagcdn.com/fj.svg",
+    "official_language": [
+      "English",
+      "Fijian",
+      "Fiji Hindi"
+    ],
+    "currency": [
+      "FJD"
+    ],
+    "phone_code": "+679",
+    "domain": [
+      ".fj"
+    ]
+  },
+  {
+    "name": "Colombia",
+    "population": 50882884,
+    "flag": "https://flagcdn.com/co.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "COP"
+    ],
+    "phone_code": "+57",
+    "domain": [
+      ".co"
+    ]
+  },
+  {
+    "name": "Cuba",
+    "population": 11326616,
+    "flag": "https://flagcdn.com/cu.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "CUC",
+      "CUP"
+    ],
+    "phone_code": "+53",
+    "domain": [
+      ".cu"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "population": 69799978,
+    "flag": "https://flagcdn.com/th.svg",
+    "official_language": [
+      "Thai"
+    ],
+    "currency": [
+      "THB"
+    ],
+    "phone_code": "+66",
+    "domain": [
+      ".th",
+      ".ไทย"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "population": 3278292,
+    "flag": "https://flagcdn.com/mn.svg",
+    "official_language": [
+      "Mongolian"
+    ],
+    "currency": [
+      "MNT"
+    ],
+    "phone_code": "+976",
+    "domain": [
+      ".mn"
+    ]
+  },
+  {
+    "name": "Réunion",
+    "population": 840974,
+    "flag": "https://flagcdn.com/re.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+262",
+    "domain": [
+      ".re"
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "population": 1967998,
+    "flag": "https://flagcdn.com/gw.svg",
+    "official_language": [
+      "Portuguese",
+      "Upper Guinea Creole"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+245",
+    "domain": [
+      ".gw"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "population": 45376763,
+    "flag": "https://flagcdn.com/ar.svg",
+    "official_language": [
+      "Guaraní",
+      "Spanish"
+    ],
+    "currency": [
+      "ARS"
+    ],
+    "phone_code": "+54",
+    "domain": [
+      ".ar"
+    ]
+  },
+  {
+    "name": "Mexico",
+    "population": 128932753,
+    "flag": "https://flagcdn.com/mx.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "MXN"
+    ],
+    "phone_code": "+52",
+    "domain": [
+      ".mx"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "population": 6031187,
+    "flag": "https://flagcdn.com/tm.svg",
+    "official_language": [
+      "Russian",
+      "Turkmen"
+    ],
+    "currency": [
+      "TMT"
+    ],
+    "phone_code": "+993",
+    "domain": [
+      ".tm"
+    ]
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "population": 400,
+    "flag": "https://flagcdn.com/tf.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+262",
+    "domain": [
+      ".tf"
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "population": 114963583,
+    "flag": "https://flagcdn.com/et.svg",
+    "official_language": [
+      "Amharic"
+    ],
+    "currency": [
+      "ETB"
+    ],
+    "phone_code": "+251",
+    "domain": [
+      ".et"
+    ]
+  },
+  {
+    "name": "Gabon",
+    "population": 2225728,
+    "flag": "https://flagcdn.com/ga.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XAF"
+    ],
+    "phone_code": "+241",
+    "domain": [
+      ".ga"
+    ]
+  },
+  {
+    "name": "South Korea",
+    "population": 51780579,
+    "flag": "https://flagcdn.com/kr.svg",
+    "official_language": [
+      "Korean"
+    ],
+    "currency": [
+      "KRW"
+    ],
+    "phone_code": "+82",
+    "domain": [
+      ".kr",
+      ".한국"
+    ]
+  },
+  {
+    "name": "Togo",
+    "population": 8278737,
+    "flag": "https://flagcdn.com/tg.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+228",
+    "domain": [
+      ".tg"
+    ]
+  },
+  {
+    "name": "Ghana",
+    "population": 31072945,
+    "flag": "https://flagcdn.com/gh.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GHS"
+    ],
+    "phone_code": "+233",
+    "domain": [
+      ".gh"
+    ]
+  },
+  {
+    "name": "Zambia",
+    "population": 18383956,
+    "flag": "https://flagcdn.com/zm.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "ZMW"
+    ],
+    "phone_code": "+260",
+    "domain": [
+      ".zm"
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "population": 5084300,
+    "flag": "https://flagcdn.com/nz.svg",
+    "official_language": [
+      "English",
+      "Māori",
+      "New Zealand Sign Language"
+    ],
+    "currency": [
+      "NZD"
+    ],
+    "phone_code": "+64",
+    "domain": [
+      ".nz"
+    ]
+  },
+  {
+    "name": "Laos",
+    "population": 7275556,
+    "flag": "https://flagcdn.com/la.svg",
+    "official_language": [
+      "Lao"
+    ],
+    "currency": [
+      "LAK"
+    ],
+    "phone_code": "+856",
+    "domain": [
+      ".la"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "population": 11890781,
+    "flag": "https://flagcdn.com/bi.svg",
+    "official_language": [
+      "French",
+      "Kirundi"
+    ],
+    "currency": [
+      "BIF"
+    ],
+    "phone_code": "+257",
+    "domain": [
+      ".bi"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "population": 220892331,
+    "flag": "https://flagcdn.com/pk.svg",
+    "official_language": [
+      "English",
+      "Urdu"
+    ],
+    "currency": [
+      "PKR"
+    ],
+    "phone_code": "+92",
+    "domain": [
+      ".pk"
+    ]
+  },
+  {
+    "name": "Armenia",
+    "population": 2963234,
+    "flag": "https://flagcdn.com/am.svg",
+    "official_language": [
+      "Armenian"
+    ],
+    "currency": [
+      "AMD"
+    ],
+    "phone_code": "+374",
+    "domain": [
+      ".am"
+    ]
+  },
+  {
+    "name": "Czechia",
+    "population": 10698896,
+    "flag": "https://flagcdn.com/cz.svg",
+    "official_language": [
+      "Czech",
+      "Slovak"
+    ],
+    "currency": [
+      "CZK"
+    ],
+    "phone_code": "+420",
+    "domain": [
+      ".cz"
+    ]
+  },
+  {
+    "name": "San Marino",
+    "population": 33938,
+    "flag": "https://flagcdn.com/sm.svg",
+    "official_language": [
+      "Italian"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+378",
+    "domain": [
+      ".sm"
+    ]
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "population": 219161,
+    "flag": "https://flagcdn.com/st.svg",
+    "official_language": [
+      "Portuguese"
+    ],
+    "currency": [
+      "STN"
+    ],
+    "phone_code": "+239",
+    "domain": [
+      ".st"
+    ]
+  },
+  {
+    "name": "Niue",
+    "population": 1470,
+    "flag": "https://flagcdn.com/nu.svg",
+    "official_language": [
+      "English",
+      "Niuean"
+    ],
+    "currency": [
+      "NZD"
+    ],
+    "phone_code": "+683",
+    "domain": [
+      ".nu"
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "population": 393248,
+    "flag": "https://flagcdn.com/bs.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "BSD",
+      "USD"
+    ],
+    "phone_code": "+1242",
+    "domain": [
+      ".bs"
+    ]
+  },
+  {
+    "name": "Finland",
+    "population": 5530719,
+    "flag": "https://flagcdn.com/fi.svg",
+    "official_language": [
+      "Finnish",
+      "Swedish"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+358",
+    "domain": [
+      ".fi"
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "population": 16858333,
+    "flag": "https://flagcdn.com/gt.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "GTQ"
+    ],
+    "phone_code": "+502",
+    "domain": [
+      ".gt"
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "population": 7976985,
+    "flag": "https://flagcdn.com/sl.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "SLE"
+    ],
+    "phone_code": "+232",
+    "domain": [
+      ".sl"
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "population": 632275,
+    "flag": "https://flagcdn.com/lu.svg",
+    "official_language": [
+      "German",
+      "French",
+      "Luxembourgish"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+352",
+    "domain": [
+      ".lu"
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "population": 11792,
+    "flag": "https://flagcdn.com/tv.svg",
+    "official_language": [
+      "English",
+      "Tuvaluan"
+    ],
+    "currency": [
+      "AUD",
+      "TVD"
+    ],
+    "phone_code": "+688",
+    "domain": [
+      ".tv"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "population": 5352000,
+    "flag": "https://flagcdn.com/er.svg",
+    "official_language": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ],
+    "currency": [
+      "ERN"
+    ],
+    "phone_code": "+291",
+    "domain": [
+      ".er"
+    ]
+  },
+  {
+    "name": "Jersey",
+    "population": 100800,
+    "flag": "https://flagcdn.com/je.svg",
+    "official_language": [
+      "English",
+      "French",
+      "Jèrriais"
+    ],
+    "currency": [
+      "GBP",
+      "JEP"
+    ],
+    "phone_code": "+44",
+    "domain": [
+      ".je"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "population": 9904608,
+    "flag": "https://flagcdn.com/hn.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "HNL"
+    ],
+    "phone_code": "+504",
+    "domain": [
+      ".hn"
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "population": 510713,
+    "flag": "https://flagcdn.com/eh.svg",
+    "official_language": [
+      "Berber",
+      "Hassaniya",
+      "Spanish"
+    ],
+    "currency": [
+      "DZD",
+      "MAD",
+      "MRU"
+    ],
+    "phone_code": "+2125288",
+    "domain": [
+      ".eh"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "population": 16743930,
+    "flag": "https://flagcdn.com/sn.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+221",
+    "domain": [
+      ".sn"
+    ]
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "population": 2562,
+    "flag": "https://flagcdn.com/sj.svg",
+    "official_language": [
+      "Norwegian"
+    ],
+    "currency": [
+      "NOK"
+    ],
+    "phone_code": "+4779",
+    "domain": [
+      ".sj"
+    ]
+  },
+  {
+    "name": "Nepal",
+    "population": 29136808,
+    "flag": "https://flagcdn.com/np.svg",
+    "official_language": [
+      "Nepali"
+    ],
+    "currency": [
+      "NPR"
+    ],
+    "phone_code": "+977",
+    "domain": [
+      ".np"
+    ]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "population": 97928,
+    "flag": "https://flagcdn.com/ag.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1268",
+    "domain": [
+      ".ag"
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "population": 555988,
+    "flag": "https://flagcdn.com/cv.svg",
+    "official_language": [
+      "Portuguese"
+    ],
+    "currency": [
+      "CVE"
+    ],
+    "phone_code": "+238",
+    "domain": [
+      ".cv"
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "population": 164689383,
+    "flag": "https://flagcdn.com/bd.svg",
+    "official_language": [
+      "Bengali"
+    ],
+    "currency": [
+      "BDT"
+    ],
+    "phone_code": "+880",
+    "domain": [
+      ".bd"
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "population": 6591600,
+    "flag": "https://flagcdn.com/kg.svg",
+    "official_language": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "currency": [
+      "KGS"
+    ],
+    "phone_code": "+996",
+    "domain": [
+      ".kg"
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "population": 13452,
+    "flag": "https://flagcdn.com/ai.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1264",
+    "domain": [
+      ".ai"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "population": 206139587,
+    "flag": "https://flagcdn.com/ng.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "NGN"
+    ],
+    "phone_code": "+234",
+    "domain": [
+      ".ng"
+    ]
+  },
+  {
+    "name": "Spain",
+    "population": 47351567,
+    "flag": "https://flagcdn.com/es.svg",
+    "official_language": [
+      "Spanish",
+      "Catalan",
+      "Basque",
+      "Galician"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+34",
+    "domain": [
+      ".es"
+    ]
+  },
+  {
+    "name": "British Virgin Islands",
+    "population": 30237,
+    "flag": "https://flagcdn.com/vg.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1284",
+    "domain": [
+      ".vg"
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "population": 59194,
+    "flag": "https://flagcdn.com/mh.svg",
+    "official_language": [
+      "English",
+      "Marshallese"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+692",
+    "domain": [
+      ".mh"
+    ]
+  },
+  {
+    "name": "Mayotte",
+    "population": 226915,
+    "flag": "https://flagcdn.com/yt.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+262",
+    "domain": [
+      ".yt"
+    ]
+  },
+  {
+    "name": "Qatar",
+    "population": 2881060,
+    "flag": "https://flagcdn.com/qa.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "QAR"
+    ],
+    "phone_code": "+974",
+    "domain": [
+      ".qa",
+      "قطر."
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "population": 28435943,
+    "flag": "https://flagcdn.com/ve.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "VES"
+    ],
+    "phone_code": "+58",
+    "domain": [
+      ".ve"
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "population": 11818618,
+    "flag": "https://flagcdn.com/tn.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "TND"
+    ],
+    "phone_code": "+216",
+    "domain": [
+      ".tn"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "population": 39244,
+    "flag": "https://flagcdn.com/mc.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+377",
+    "domain": [
+      ".mc"
+    ]
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "population": 300,
+    "flag": "https://flagcdn.com/um.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+268",
+    "domain": [
+      ".us"
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "population": 4829764,
+    "flag": "https://flagcdn.com/cf.svg",
+    "official_language": [
+      "French",
+      "Sango"
+    ],
+    "currency": [
+      "XAF"
+    ],
+    "phone_code": "+236",
+    "domain": [
+      ".cf"
+    ]
+  },
+  {
+    "name": "Macau",
+    "population": 649342,
+    "flag": "https://flagcdn.com/mo.svg",
+    "official_language": [
+      "Portuguese",
+      "Chinese"
+    ],
+    "currency": [
+      "MOP"
+    ],
+    "phone_code": "+853",
+    "domain": [
+      ".mo"
+    ]
+  },
+  {
+    "name": "Latvia",
+    "population": 1901548,
+    "flag": "https://flagcdn.com/lv.svg",
+    "official_language": [
+      "Latvian"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+371",
+    "domain": [
+      ".lv"
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "population": 34232050,
+    "flag": "https://flagcdn.com/uz.svg",
+    "official_language": [
+      "Russian",
+      "Uzbek"
+    ],
+    "currency": [
+      "UZS"
+    ],
+    "phone_code": "+998",
+    "domain": [
+      ".uz"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "population": 212559409,
+    "flag": "https://flagcdn.com/br.svg",
+    "official_language": [
+      "Portuguese"
+    ],
+    "currency": [
+      "BRL"
+    ],
+    "phone_code": "+55",
+    "domain": [
+      ".br"
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "population": 1207361,
+    "flag": "https://flagcdn.com/cy.svg",
+    "official_language": [
+      "Greek",
+      "Turkish"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+357",
+    "domain": [
+      ".cy"
+    ]
+  },
+  {
+    "name": "North Korea",
+    "population": 25778815,
+    "flag": "https://flagcdn.com/kp.svg",
+    "official_language": [
+      "Korean"
+    ],
+    "currency": [
+      "KPW"
+    ],
+    "phone_code": "+850",
+    "domain": [
+      ".kp"
+    ]
+  },
+  {
+    "name": "Dominica",
+    "population": 71991,
+    "flag": "https://flagcdn.com/dm.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1767",
+    "domain": [
+      ".dm"
+    ]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "population": 3280815,
+    "flag": "https://flagcdn.com/ba.svg",
+    "official_language": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "currency": [
+      "BAM"
+    ],
+    "phone_code": "+387",
+    "domain": [
+      ".ba"
+    ]
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "population": 544,
+    "flag": "https://flagcdn.com/cc.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "AUD"
+    ],
+    "phone_code": "+61",
+    "domain": [
+      ".cc"
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "population": 21919000,
+    "flag": "https://flagcdn.com/lk.svg",
+    "official_language": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "currency": [
+      "LKR"
+    ],
+    "phone_code": "+94",
+    "domain": [
+      ".lk",
+      ".இலங்கை",
+      ".ලංකා"
+    ]
+  },
+  {
+    "name": "Republic of the Congo",
+    "population": 5657000,
+    "flag": "https://flagcdn.com/cg.svg",
+    "official_language": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ],
+    "currency": [
+      "XAF"
+    ],
+    "phone_code": "+242",
+    "domain": [
+      ".cg"
+    ]
+  },
+  {
+    "name": "Israel",
+    "population": 9216900,
+    "flag": "https://flagcdn.com/il.svg",
+    "official_language": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "currency": [
+      "ILS"
+    ],
+    "phone_code": "+972",
+    "domain": [
+      ".il"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "population": 2540916,
+    "flag": "https://flagcdn.com/na.svg",
+    "official_language": [
+      "Afrikaans",
+      "German",
+      "English",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "currency": [
+      "NAD",
+      "ZAR"
+    ],
+    "phone_code": "+264",
+    "domain": [
+      ".na"
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "population": 115021,
+    "flag": "https://flagcdn.com/fm.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+691",
+    "domain": [
+      ".fm"
+    ]
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "population": 0,
+    "flag": "https://flagcdn.com/hm.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [],
+    "phone_code": "",
+    "domain": [
+      ".hm",
+      ".aq"
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "population": 11193729,
+    "flag": "https://flagcdn.com/ss.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "SSP"
+    ],
+    "phone_code": "+211",
+    "domain": [
+      ".ss"
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "population": 12952209,
+    "flag": "https://flagcdn.com/rw.svg",
+    "official_language": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ],
+    "currency": [
+      "RWF"
+    ],
+    "phone_code": "+250",
+    "domain": [
+      ".rw"
+    ]
+  },
+  {
+    "name": "Uganda",
+    "population": 45741000,
+    "flag": "https://flagcdn.com/ug.svg",
+    "official_language": [
+      "English",
+      "Swahili"
+    ],
+    "currency": [
+      "UGX"
+    ],
+    "phone_code": "+256",
+    "domain": [
+      ".ug"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "population": 10305564,
+    "flag": "https://flagcdn.com/pt.svg",
+    "official_language": [
+      "Portuguese"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+351",
+    "domain": [
+      ".pt"
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "population": 11673029,
+    "flag": "https://flagcdn.com/bo.svg",
+    "official_language": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Spanish"
+    ],
+    "currency": [
+      "BOB"
+    ],
+    "phone_code": "+591",
+    "domain": [
+      ".bo"
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "population": 2142252,
+    "flag": "https://flagcdn.com/ls.svg",
+    "official_language": [
+      "English",
+      "Sotho"
+    ],
+    "currency": [
+      "LSL",
+      "ZAR"
+    ],
+    "phone_code": "+266",
+    "domain": [
+      ".ls"
+    ]
+  },
+  {
+    "name": "Chad",
+    "population": 16425859,
+    "flag": "https://flagcdn.com/td.svg",
+    "official_language": [
+      "Arabic",
+      "French"
+    ],
+    "currency": [
+      "XAF"
+    ],
+    "phone_code": "+235",
+    "domain": [
+      ".td"
+    ]
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "population": 53192,
+    "flag": "https://flagcdn.com/sh.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GBP",
+      "SHP"
+    ],
+    "phone_code": "+290",
+    "domain": [
+      ".sh",
+      ".ac"
+    ]
+  },
+  {
+    "name": "Cook Islands",
+    "population": 18100,
+    "flag": "https://flagcdn.com/ck.svg",
+    "official_language": [
+      "English",
+      "Cook Islands Māori"
+    ],
+    "currency": [
+      "CKD",
+      "NZD"
+    ],
+    "phone_code": "+682",
+    "domain": [
+      ".ck"
+    ]
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "population": 6069,
+    "flag": "https://flagcdn.com/pm.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+508",
+    "domain": [
+      ".pm"
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "population": 2794700,
+    "flag": "https://flagcdn.com/lt.svg",
+    "official_language": [
+      "Lithuanian"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+370",
+    "domain": [
+      ".lt"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "population": 621718,
+    "flag": "https://flagcdn.com/me.svg",
+    "official_language": [
+      "Montenegrin"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+382",
+    "domain": [
+      ".me"
+    ]
+  },
+  {
+    "name": "Oman",
+    "population": 5106622,
+    "flag": "https://flagcdn.com/om.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "OMR"
+    ],
+    "phone_code": "+968",
+    "domain": [
+      ".om"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "population": 43849269,
+    "flag": "https://flagcdn.com/sd.svg",
+    "official_language": [
+      "Arabic",
+      "English"
+    ],
+    "currency": [
+      "SDG"
+    ],
+    "phone_code": "+249",
+    "domain": [
+      ".sd"
+    ]
+  },
+  {
+    "name": "Brunei",
+    "population": 437483,
+    "flag": "https://flagcdn.com/bn.svg",
+    "official_language": [
+      "Malay"
+    ],
+    "currency": [
+      "BND",
+      "SGD"
+    ],
+    "phone_code": "+673",
+    "domain": [
+      ".bn"
+    ]
+  },
+  {
+    "name": "DR Congo",
+    "population": 108407721,
+    "flag": "https://flagcdn.com/cd.svg",
+    "official_language": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Swahili"
+    ],
+    "currency": [
+      "CDF"
+    ],
+    "phone_code": "+243",
+    "domain": [
+      ".cd"
+    ]
+  },
+  {
+    "name": "Greece",
+    "population": 10715549,
+    "flag": "https://flagcdn.com/gr.svg",
+    "official_language": [
+      "Greek"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+30",
+    "domain": [
+      ".gr"
+    ]
+  },
+  {
+    "name": "Albania",
+    "population": 2837743,
+    "flag": "https://flagcdn.com/al.svg",
+    "official_language": [
+      "Albanian"
+    ],
+    "currency": [
+      "ALL"
+    ],
+    "phone_code": "+355",
+    "domain": [
+      ".al"
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "population": 59734213,
+    "flag": "https://flagcdn.com/tz.svg",
+    "official_language": [
+      "English",
+      "Swahili"
+    ],
+    "currency": [
+      "TZS"
+    ],
+    "phone_code": "+255",
+    "domain": [
+      ".tz"
+    ]
+  },
+  {
+    "name": "Georgia",
+    "population": 3714000,
+    "flag": "https://flagcdn.com/ge.svg",
+    "official_language": [
+      "Georgian"
+    ],
+    "currency": [
+      "GEL"
+    ],
+    "phone_code": "+995",
+    "domain": [
+      ".ge"
+    ]
+  },
+  {
+    "name": "Japan",
+    "population": 125836021,
+    "flag": "https://flagcdn.com/jp.svg",
+    "official_language": [
+      "Japanese"
+    ],
+    "currency": [
+      "JPY"
+    ],
+    "phone_code": "+81",
+    "domain": [
+      ".jp",
+      ".みんな"
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "population": 34813867,
+    "flag": "https://flagcdn.com/sa.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "SAR"
+    ],
+    "phone_code": "+966",
+    "domain": [
+      ".sa",
+      ".السعودية"
+    ]
+  },
+  {
+    "name": "Croatia",
+    "population": 4047200,
+    "flag": "https://flagcdn.com/hr.svg",
+    "official_language": [
+      "Croatian"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+385",
+    "domain": [
+      ".hr"
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "population": 686878,
+    "flag": "https://flagcdn.com/sb.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "SBD"
+    ],
+    "phone_code": "+677",
+    "domain": [
+      ".sb"
+    ]
+  },
+  {
+    "name": "Yemen",
+    "population": 29825968,
+    "flag": "https://flagcdn.com/ye.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "YER"
+    ],
+    "phone_code": "+967",
+    "domain": [
+      ".ye"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "population": 15893219,
+    "flag": "https://flagcdn.com/so.svg",
+    "official_language": [
+      "Arabic",
+      "Somali"
+    ],
+    "currency": [
+      "SOS"
+    ],
+    "phone_code": "+252",
+    "domain": [
+      ".so"
+    ]
+  },
+  {
+    "name": "Grenada",
+    "population": 112519,
+    "flag": "https://flagcdn.com/gd.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1473",
+    "domain": [
+      ".gd"
+    ]
+  },
+  {
+    "name": "Tonga",
+    "population": 105697,
+    "flag": "https://flagcdn.com/to.svg",
+    "official_language": [
+      "English",
+      "Tongan"
+    ],
+    "currency": [
+      "TOP"
+    ],
+    "phone_code": "+676",
+    "domain": [
+      ".to"
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "population": 6624554,
+    "flag": "https://flagcdn.com/ni.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "NIO"
+    ],
+    "phone_code": "+505",
+    "domain": [
+      ".ni"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "population": 7132530,
+    "flag": "https://flagcdn.com/py.svg",
+    "official_language": [
+      "Guaraní",
+      "Spanish"
+    ],
+    "currency": [
+      "PYG"
+    ],
+    "phone_code": "+595",
+    "domain": [
+      ".py"
+    ]
+  },
+  {
+    "name": "India",
+    "population": 1380004385,
+    "flag": "https://flagcdn.com/in.svg",
+    "official_language": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "currency": [
+      "INR"
+    ],
+    "phone_code": "+91",
+    "domain": [
+      ".in"
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "population": 67215293,
+    "flag": "https://flagcdn.com/gb.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GBP"
+    ],
+    "phone_code": "+44",
+    "domain": [
+      ".uk"
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "population": 1160164,
+    "flag": "https://flagcdn.com/sz.svg",
+    "official_language": [
+      "English",
+      "Swazi"
+    ],
+    "currency": [
+      "SZL",
+      "ZAR"
+    ],
+    "phone_code": "+268",
+    "domain": [
+      ".sz"
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "population": 27691019,
+    "flag": "https://flagcdn.com/mg.svg",
+    "official_language": [
+      "French",
+      "Malagasy"
+    ],
+    "currency": [
+      "MGA"
+    ],
+    "phone_code": "+261",
+    "domain": [
+      ".mg"
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "population": 1402985,
+    "flag": "https://flagcdn.com/gq.svg",
+    "official_language": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "currency": [
+      "XAF"
+    ],
+    "phone_code": "+240",
+    "domain": [
+      ".gq"
+    ]
+  },
+  {
+    "name": "Jordan",
+    "population": 10203140,
+    "flag": "https://flagcdn.com/jo.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "JOD"
+    ],
+    "phone_code": "+962",
+    "domain": [
+      ".jo",
+      "الاردن."
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "population": 400132,
+    "flag": "https://flagcdn.com/gp.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+590",
+    "domain": [
+      ".gp"
+    ]
+  },
+  {
+    "name": "Belarus",
+    "population": 9398861,
+    "flag": "https://flagcdn.com/by.svg",
+    "official_language": [
+      "Belarusian",
+      "Russian"
+    ],
+    "currency": [
+      "BYN"
+    ],
+    "phone_code": "+375",
+    "domain": [
+      ".by"
+    ]
+  },
+  {
+    "name": "Maldives",
+    "population": 540542,
+    "flag": "https://flagcdn.com/mv.svg",
+    "official_language": [
+      "Maldivian"
+    ],
+    "currency": [
+      "MVR"
+    ],
+    "phone_code": "+960",
+    "domain": [
+      ".mv"
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "population": 1318442,
+    "flag": "https://flagcdn.com/tl.svg",
+    "official_language": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+670",
+    "domain": [
+      ".tl"
+    ]
+  },
+  {
+    "name": "Serbia",
+    "population": 6908224,
+    "flag": "https://flagcdn.com/rs.svg",
+    "official_language": [
+      "Serbian"
+    ],
+    "currency": [
+      "RSD"
+    ],
+    "phone_code": "+381",
+    "domain": [
+      ".rs",
+      ".срб"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "population": 4994724,
+    "flag": "https://flagcdn.com/ie.svg",
+    "official_language": [
+      "English",
+      "Irish"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+353",
+    "domain": [
+      ".ie"
+    ]
+  },
+  {
+    "name": "Chile",
+    "population": 19116209,
+    "flag": "https://flagcdn.com/cl.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "CLP"
+    ],
+    "phone_code": "+56",
+    "domain": [
+      ".cl"
+    ]
+  },
+  {
+    "name": "Iraq",
+    "population": 40222503,
+    "flag": "https://flagcdn.com/iq.svg",
+    "official_language": [
+      "Arabic",
+      "Aramaic",
+      "Sorani"
+    ],
+    "currency": [
+      "IQD"
+    ],
+    "phone_code": "+964",
+    "domain": [
+      ".iq"
+    ]
+  },
+  {
+    "name": "Philippines",
+    "population": 109581085,
+    "flag": "https://flagcdn.com/ph.svg",
+    "official_language": [
+      "English",
+      "Filipino"
+    ],
+    "currency": [
+      "PHP"
+    ],
+    "phone_code": "+63",
+    "domain": [
+      ".ph"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "population": 59308690,
+    "flag": "https://flagcdn.com/za.svg",
+    "official_language": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "currency": [
+      "ZAR"
+    ],
+    "phone_code": "+27",
+    "domain": [
+      ".za"
+    ]
+  },
+  {
+    "name": "Benin",
+    "population": 12123198,
+    "flag": "https://flagcdn.com/bj.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+229",
+    "domain": [
+      ".bj"
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "population": 6927288,
+    "flag": "https://flagcdn.com/bg.svg",
+    "official_language": [
+      "Bulgarian"
+    ],
+    "currency": [
+      "BGN"
+    ],
+    "phone_code": "+359",
+    "domain": [
+      ".bg"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "population": 273523621,
+    "flag": "https://flagcdn.com/id.svg",
+    "official_language": [
+      "Indonesian"
+    ],
+    "currency": [
+      "IDR"
+    ],
+    "phone_code": "+62",
+    "domain": [
+      ".id"
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "population": 4649660,
+    "flag": "https://flagcdn.com/mr.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "MRU"
+    ],
+    "phone_code": "+222",
+    "domain": [
+      ".mr"
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "population": 98462,
+    "flag": "https://flagcdn.com/sc.svg",
+    "official_language": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "currency": [
+      "SCR"
+    ],
+    "phone_code": "+248",
+    "domain": [
+      ".sc"
+    ]
+  },
+  {
+    "name": "Romania",
+    "population": 19286123,
+    "flag": "https://flagcdn.com/ro.svg",
+    "official_language": [
+      "Romanian"
+    ],
+    "currency": [
+      "RON"
+    ],
+    "phone_code": "+40",
+    "domain": [
+      ".ro"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "population": 84339067,
+    "flag": "https://flagcdn.com/tr.svg",
+    "official_language": [
+      "Turkish"
+    ],
+    "currency": [
+      "TRY"
+    ],
+    "phone_code": "+90",
+    "domain": [
+      ".tr"
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "population": 20903278,
+    "flag": "https://flagcdn.com/bf.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+226",
+    "domain": [
+      ".bf"
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "population": 63903,
+    "flag": "https://flagcdn.com/bm.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "BMD"
+    ],
+    "phone_code": "+1441",
+    "domain": [
+      ".bm"
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "population": 271960,
+    "flag": "https://flagcdn.com/nc.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XPF"
+    ],
+    "phone_code": "+687",
+    "domain": [
+      ".nc"
+    ]
+  },
+  {
+    "name": "Antarctica",
+    "population": 1000,
+    "flag": "https://flagcdn.com/aq.svg",
+    "official_language": [],
+    "currency": [],
+    "phone_code": "",
+    "domain": [
+      ".aq"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "population": 102334403,
+    "flag": "https://flagcdn.com/eg.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "EGP"
+    ],
+    "phone_code": "+20",
+    "domain": [
+      ".eg",
+      ".مصر"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "population": 97338583,
+    "flag": "https://flagcdn.com/vn.svg",
+    "official_language": [
+      "Vietnamese"
+    ],
+    "currency": [
+      "VND"
+    ],
+    "phone_code": "+84",
+    "domain": [
+      ".vn"
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "population": 3194034,
+    "flag": "https://flagcdn.com/pr.svg",
+    "official_language": [
+      "English",
+      "Spanish"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1787",
+    "domain": [
+      ".pr"
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "population": 1399491,
+    "flag": "https://flagcdn.com/tt.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "TTD"
+    ],
+    "phone_code": "+1868",
+    "domain": [
+      ".tt"
+    ]
+  },
+  {
+    "name": "Falkland Islands",
+    "population": 2563,
+    "flag": "https://flagcdn.com/fk.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "FKP"
+    ],
+    "phone_code": "+500",
+    "domain": [
+      ".fk"
+    ]
+  },
+  {
+    "name": "Angola",
+    "population": 32866268,
+    "flag": "https://flagcdn.com/ao.svg",
+    "official_language": [
+      "Portuguese"
+    ],
+    "currency": [
+      "AOA"
+    ],
+    "phone_code": "+244",
+    "domain": [
+      ".ao"
+    ]
+  },
+  {
+    "name": "China",
+    "population": 1402112000,
+    "flag": "https://flagcdn.com/cn.svg",
+    "official_language": [
+      "Chinese"
+    ],
+    "currency": [
+      "CNY"
+    ],
+    "phone_code": "+86",
+    "domain": [
+      ".cn",
+      ".中国",
+      ".中國",
+      ".公司",
+      ".网络"
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "population": 4922,
+    "flag": "https://flagcdn.com/ms.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1664",
+    "domain": [
+      ".ms"
+    ]
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "population": 38718,
+    "flag": "https://flagcdn.com/tc.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1649",
+    "domain": [
+      ".tc"
+    ]
+  },
+  {
+    "name": "Åland Islands",
+    "population": 29458,
+    "flag": "https://flagcdn.com/ax.svg",
+    "official_language": [
+      "Swedish"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+35818",
+    "domain": [
+      ".ax"
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "population": 5094114,
+    "flag": "https://flagcdn.com/cr.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "CRC"
+    ],
+    "phone_code": "+506",
+    "domain": [
+      ".cr"
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "population": 3473727,
+    "flag": "https://flagcdn.com/uy.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "UYU"
+    ],
+    "phone_code": "+598",
+    "domain": [
+      ".uy"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "population": 36910558,
+    "flag": "https://flagcdn.com/ma.svg",
+    "official_language": [
+      "Arabic",
+      "Berber"
+    ],
+    "currency": [
+      "MAD"
+    ],
+    "phone_code": "+212",
+    "domain": [
+      ".ma",
+      "المغرب."
+    ]
+  },
+  {
+    "name": "Bouvet Island",
+    "population": 0,
+    "flag": "https://flagcdn.com/bv.svg",
+    "official_language": [
+      "Norwegian"
+    ],
+    "currency": [],
+    "phone_code": "+47",
+    "domain": [
+      ".bv"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "population": 1331057,
+    "flag": "https://flagcdn.com/ee.svg",
+    "official_language": [
+      "Estonian"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+372",
+    "domain": [
+      ".ee"
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "population": 183629,
+    "flag": "https://flagcdn.com/lc.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1758",
+    "domain": [
+      ".lc"
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "population": 23503349,
+    "flag": "https://flagcdn.com/tw.svg",
+    "official_language": [
+      "Chinese"
+    ],
+    "currency": [
+      "TWD"
+    ],
+    "phone_code": "+886",
+    "domain": [
+      ".tw",
+      ".台灣",
+      ".台湾"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "population": 11402533,
+    "flag": "https://flagcdn.com/ht.svg",
+    "official_language": [
+      "French",
+      "Haitian Creole"
+    ],
+    "currency": [
+      "HTG"
+    ],
+    "phone_code": "+509",
+    "domain": [
+      ".ht"
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "population": 9537642,
+    "flag": "https://flagcdn.com/tj.svg",
+    "official_language": [
+      "Russian",
+      "Tajik"
+    ],
+    "currency": [
+      "TJS"
+    ],
+    "phone_code": "+992",
+    "domain": [
+      ".tj"
+    ]
+  },
+  {
+    "name": "Niger",
+    "population": 24206636,
+    "flag": "https://flagcdn.com/ne.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+227",
+    "domain": [
+      ".ne"
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "population": 6825442,
+    "flag": "https://flagcdn.com/lb.svg",
+    "official_language": [
+      "Arabic",
+      "French"
+    ],
+    "currency": [
+      "LBP"
+    ],
+    "phone_code": "+961",
+    "domain": [
+      ".lb"
+    ]
+  },
+  {
+    "name": "Australia",
+    "population": 25687041,
+    "flag": "https://flagcdn.com/au.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "AUD"
+    ],
+    "phone_code": "+61",
+    "domain": [
+      ".au"
+    ]
+  },
+  {
+    "name": "Liberia",
+    "population": 5057677,
+    "flag": "https://flagcdn.com/lr.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "LRD"
+    ],
+    "phone_code": "+231",
+    "domain": [
+      ".lr"
+    ]
+  },
+  {
+    "name": "Italy",
+    "population": 59554023,
+    "flag": "https://flagcdn.com/it.svg",
+    "official_language": [
+      "Italian",
+      "Catalan"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+39",
+    "domain": [
+      ".it"
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "population": 57557,
+    "flag": "https://flagcdn.com/mp.svg",
+    "official_language": [
+      "Carolinian",
+      "Chamorro",
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1670",
+    "domain": [
+      ".mp"
+    ]
+  },
+  {
+    "name": "Saint Martin",
+    "population": 38659,
+    "flag": "https://flagcdn.com/mf.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+590",
+    "domain": [
+      ".fr",
+      ".gp"
+    ]
+  },
+  {
+    "name": "Nauru",
+    "population": 10834,
+    "flag": "https://flagcdn.com/nr.svg",
+    "official_language": [
+      "English",
+      "Nauru"
+    ],
+    "currency": [
+      "AUD"
+    ],
+    "phone_code": "+674",
+    "domain": [
+      ".nr"
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "population": 8654622,
+    "flag": "https://flagcdn.com/ch.svg",
+    "official_language": [
+      "French",
+      "Swiss German",
+      "Italian",
+      "Romansh"
+    ],
+    "currency": [
+      "CHF"
+    ],
+    "phone_code": "+41",
+    "domain": [
+      ".ch"
+    ]
+  },
+  {
+    "name": "Peru",
+    "population": 32971846,
+    "flag": "https://flagcdn.com/pe.svg",
+    "official_language": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ],
+    "currency": [
+      "PEN"
+    ],
+    "phone_code": "+51",
+    "domain": [
+      ".pe"
+    ]
+  },
+  {
+    "name": "Libya",
+    "population": 6871287,
+    "flag": "https://flagcdn.com/ly.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "LYD"
+    ],
+    "phone_code": "+218",
+    "domain": [
+      ".ly"
+    ]
+  },
+  {
+    "name": "Germany",
+    "population": 83240525,
+    "flag": "https://flagcdn.com/de.svg",
+    "official_language": [
+      "German"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+49",
+    "domain": [
+      ".de"
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "population": 1775378,
+    "flag": "https://flagcdn.com/xk.svg",
+    "official_language": [
+      "Albanian",
+      "Serbian"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+383",
+    "domain": []
+  },
+  {
+    "name": "Guam",
+    "population": 168783,
+    "flag": "https://flagcdn.com/gu.svg",
+    "official_language": [
+      "Chamorro",
+      "English",
+      "Spanish"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1671",
+    "domain": [
+      ".gu"
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "population": 1701583,
+    "flag": "https://flagcdn.com/bh.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "BHD"
+    ],
+    "phone_code": "+973",
+    "domain": [
+      ".bh"
+    ]
+  },
+  {
+    "name": "Wallis and Futuna",
+    "population": 11750,
+    "flag": "https://flagcdn.com/wf.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XPF"
+    ],
+    "phone_code": "+681",
+    "domain": [
+      ".wf"
+    ]
+  },
+  {
+    "name": "Iran",
+    "population": 83992953,
+    "flag": "https://flagcdn.com/ir.svg",
+    "official_language": [
+      "Persian (Farsi)"
+    ],
+    "currency": [
+      "IRR"
+    ],
+    "phone_code": "+98",
+    "domain": [
+      ".ir",
+      "ایران."
+    ]
+  },
+  {
+    "name": "Panama",
+    "population": 4314768,
+    "flag": "https://flagcdn.com/pa.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "PAB",
+      "USD"
+    ],
+    "phone_code": "+507",
+    "domain": [
+      ".pa"
+    ]
+  },
+  {
+    "name": "Tokelau",
+    "population": 1411,
+    "flag": "https://flagcdn.com/tk.svg",
+    "official_language": [
+      "English",
+      "Samoan",
+      "Tokelauan"
+    ],
+    "currency": [
+      "NZD"
+    ],
+    "phone_code": "+690",
+    "domain": [
+      ".tk"
+    ]
+  },
+  {
+    "name": "Syria",
+    "population": 17500657,
+    "flag": "https://flagcdn.com/sy.svg",
+    "official_language": [
+      "Arabic"
+    ],
+    "currency": [
+      "SYP"
+    ],
+    "phone_code": "+963",
+    "domain": [
+      ".sy",
+      "سوريا."
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "population": 53192,
+    "flag": "https://flagcdn.com/kn.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1869",
+    "domain": [
+      ".kn"
+    ]
+  },
+  {
+    "name": "Gambia",
+    "population": 2416664,
+    "flag": "https://flagcdn.com/gm.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "GMD"
+    ],
+    "phone_code": "+220",
+    "domain": [
+      ".gm"
+    ]
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "population": 25987,
+    "flag": "https://flagcdn.com/bq.svg",
+    "official_language": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+599",
+    "domain": [
+      ".bq",
+      ".nl"
+    ]
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "population": 3000,
+    "flag": "https://flagcdn.com/io.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+246",
+    "domain": [
+      ".io"
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "population": 16655799,
+    "flag": "https://flagcdn.com/nl.svg",
+    "official_language": [
+      "Dutch"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+31",
+    "domain": [
+      ".nl"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "population": 6486201,
+    "flag": "https://flagcdn.com/sv.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+503",
+    "domain": [
+      ".sv"
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "population": 26378275,
+    "flag": "https://flagcdn.com/ci.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "XOF"
+    ],
+    "phone_code": "+225",
+    "domain": [
+      ".ci"
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "population": 119446,
+    "flag": "https://flagcdn.com/ki.svg",
+    "official_language": [
+      "English",
+      "Gilbertese"
+    ],
+    "currency": [
+      "AUD",
+      "KID"
+    ],
+    "phone_code": "+686",
+    "domain": [
+      ".ki"
+    ]
+  },
+  {
+    "name": "Saint Barthélemy",
+    "population": 4255,
+    "flag": "https://flagcdn.com/bl.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+590",
+    "domain": [
+      ".bl"
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "population": 55197,
+    "flag": "https://flagcdn.com/as.svg",
+    "official_language": [
+      "English",
+      "Samoan"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+1684",
+    "domain": [
+      ".as"
+    ]
+  },
+  {
+    "name": "Aruba",
+    "population": 106766,
+    "flag": "https://flagcdn.com/aw.svg",
+    "official_language": [
+      "Dutch",
+      "Papiamento"
+    ],
+    "currency": [
+      "AWG"
+    ],
+    "phone_code": "+297",
+    "domain": [
+      ".aw"
+    ]
+  },
+  {
+    "name": "French Guiana",
+    "population": 254541,
+    "flag": "https://flagcdn.com/gf.svg",
+    "official_language": [
+      "French"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+594",
+    "domain": [
+      ".gf"
+    ]
+  },
+  {
+    "name": "Palau",
+    "population": 18092,
+    "flag": "https://flagcdn.com/pw.svg",
+    "official_language": [
+      "English",
+      "Palauan"
+    ],
+    "currency": [
+      "USD"
+    ],
+    "phone_code": "+680",
+    "domain": [
+      ".pw"
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "population": 110947,
+    "flag": "https://flagcdn.com/vc.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "XCD"
+    ],
+    "phone_code": "+1784",
+    "domain": [
+      ".vc"
+    ]
+  },
+  {
+    "name": "Poland",
+    "population": 37950802,
+    "flag": "https://flagcdn.com/pl.svg",
+    "official_language": [
+      "Polish"
+    ],
+    "currency": [
+      "PLN"
+    ],
+    "phone_code": "+48",
+    "domain": [
+      ".pl"
+    ]
+  },
+  {
+    "name": "Barbados",
+    "population": 287371,
+    "flag": "https://flagcdn.com/bb.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "BBD"
+    ],
+    "phone_code": "+1246",
+    "domain": [
+      ".bb"
+    ]
+  },
+  {
+    "name": "Isle of Man",
+    "population": 85032,
+    "flag": "https://flagcdn.com/im.svg",
+    "official_language": [
+      "English",
+      "Manx"
+    ],
+    "currency": [
+      "GBP",
+      "IMP"
+    ],
+    "phone_code": "+44",
+    "domain": [
+      ".im"
+    ]
+  },
+  {
+    "name": "Greenland",
+    "population": 56367,
+    "flag": "https://flagcdn.com/gl.svg",
+    "official_language": [
+      "Greenlandic"
+    ],
+    "currency": [
+      "DKK"
+    ],
+    "phone_code": "+299",
+    "domain": [
+      ".gl"
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "population": 14862927,
+    "flag": "https://flagcdn.com/zw.svg",
+    "official_language": [
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "currency": [
+      "ZWL"
+    ],
+    "phone_code": "+263",
+    "domain": [
+      ".zw"
+    ]
+  },
+  {
+    "name": "Pitcairn Islands",
+    "population": 56,
+    "flag": "https://flagcdn.com/pn.svg",
+    "official_language": [
+      "English"
+    ],
+    "currency": [
+      "NZD"
+    ],
+    "phone_code": "+64",
+    "domain": [
+      ".pn"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "population": 10353442,
+    "flag": "https://flagcdn.com/se.svg",
+    "official_language": [
+      "Swedish"
+    ],
+    "currency": [
+      "SEK"
+    ],
+    "phone_code": "+46",
+    "domain": [
+      ".se"
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "population": 10847904,
+    "flag": "https://flagcdn.com/do.svg",
+    "official_language": [
+      "Spanish"
+    ],
+    "currency": [
+      "DOP"
+    ],
+    "phone_code": "+1809",
+    "domain": [
+      ".do"
+    ]
+  },
+  {
+    "name": "Belgium",
+    "population": 11555997,
+    "flag": "https://flagcdn.com/be.svg",
+    "official_language": [
+      "German",
+      "French",
+      "Dutch"
+    ],
+    "currency": [
+      "EUR"
+    ],
+    "phone_code": "+32",
+    "domain": [
+      ".be"
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "population": 31255435,
+    "flag": "https://flagcdn.com/mz.svg",
+    "official_language": [
+      "Portuguese"
+    ],
+    "currency": [
+      "MZN"
+    ],
+    "phone_code": "+258",
+    "domain": [
+      ".mz"
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "population": 1265740,
+    "flag": "https://flagcdn.com/mu.svg",
+    "official_language": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "currency": [
+      "MUR"
+    ],
+    "phone_code": "+230",
+    "domain": [
+      ".mu"
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "population": 10110116,
+    "flag": "https://flagcdn.com/az.svg",
+    "official_language": [
+      "Azerbaijani"
+    ],
+    "currency": [
+      "AZN"
+    ],
+    "phone_code": "+994",
+    "domain": [
+      ".az"
+    ]
+  }
+]
